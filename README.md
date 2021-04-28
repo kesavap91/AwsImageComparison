@@ -1,0 +1,2 @@
+# AwsImageComparison
+Image comparison application
